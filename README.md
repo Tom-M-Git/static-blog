@@ -1,1 +1,1 @@
-#Static Blog built with Gatsby
+# Static Blog built with Gatsby
