@@ -8,7 +8,7 @@ const IndexPage = () => {
     <Layout>
       <Head title="Home" />
       <h1>Hello.</h1>
-      <h2>I'm Tomoaki Morioka, a front-end developer from Hiroshima, Japan.</h2>
+      <h2>This is in progress.</h2>
       <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
     </Layout>
   );
