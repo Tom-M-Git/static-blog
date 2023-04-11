@@ -16,10 +16,10 @@
   "dependencies": {
     "gatsby": "^5.8.1",
     "gatsby-plugin-react-helmet": "^3.3.10",
-    "gatsby-plugin-sharp": "^2.6.31",
-    "gatsby-remark-images": "^3.3.28",
+    "gatsby-plugin-sharp": "^5.8.1",
+    "gatsby-remark-images": "^7.8.0",
     "gatsby-remark-relative-images": "^2.0.2",
-    "gatsby-source-contentful": "^2.3.41",
+    "gatsby-source-contentful": "^8.8.0",
     "gatsby-source-filesystem": "^2.3.27",
     "gatsby-transformer-remark": "^5.25.1",
     "react": "^16.12.0",
